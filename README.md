@@ -1,4 +1,4 @@
-# Data-Analyst-Assistant-SEO-Projects
+# Data Analyst Assistant SEO Projects
 
 
 During my summer position as a Data Analyst Assistant (SEO) at the Ministry of Education, I supported the Child Care Branch (Early Years and Child Care Division – Licensing and Inspection Unit) by analyzing compliance trends under the Child Care and Early Years Act and building data-driven tools to strengthen oversight practices.
