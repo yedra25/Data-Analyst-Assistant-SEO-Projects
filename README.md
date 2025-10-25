@@ -1,3 +1,6 @@
+# Data-Analyst-Assistant-SEO-Projects
+
+
 During my summer position as a Data Analyst Assistant (SEO) at the Ministry of Education, I supported the Child Care Branch (Early Years and Child Care Division – Licensing and Inspection Unit) by analyzing compliance trends under the Child Care and Early Years Act and building data-driven tools to strengthen oversight practices.
 
 I worked with Early Years Integration Analytics (EYIA) data to extract, clean, and prepare multi-year compliance datasets, analyzing year-over-year, seasonal, and geographic trends in supervision and prohibited practices. To support decision-making, I developed an interactive compliance monitoring dashboard in Power BI, using advanced DAX queries to provide managers and senior advisors with a clear sector overview.
